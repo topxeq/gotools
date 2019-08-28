@@ -7,10 +7,10 @@ package simplifiedchinese
 import (
 	"unicode/utf8"
 
-	"github.com/topxeq/gotools/text/encoding"
-	"github.com/topxeq/gotools/text/encoding/internal"
-	"github.com/topxeq/gotools/text/encoding/internal/identifier"
-	"github.com/topxeq/gotools/text/transform"
+	"golang.org/x/text/encoding"
+	"golang.org/x/text/encoding/internal"
+	"golang.org/x/text/encoding/internal/identifier"
+	"golang.org/x/text/transform"
 )
 
 var (

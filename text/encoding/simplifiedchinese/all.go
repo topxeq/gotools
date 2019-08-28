@@ -5,7 +5,7 @@
 package simplifiedchinese
 
 import (
-	"github.com/topxeq/gotools/text/encoding"
+	"golang.org/x/text/encoding"
 )
 
 // All is a list of all defined encodings in this package.
